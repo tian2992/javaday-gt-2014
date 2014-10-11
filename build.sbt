@@ -1,4 +1,4 @@
-name := """play-java"""
+name := """demo-javaday2014-gt"""
 
 version := "1.0-SNAPSHOT"
 
